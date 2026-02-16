@@ -36,7 +36,7 @@ Here are a few projects I've been working on:
       <td><img alt="Commit Activity" src="https://img.shields.io/github/commit-activity/m/snowdamiz/mesh-lang?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/snowdamiz/clippster-mono"><b>Clippster</b> - the all-in-one video clipping solution</a></td>
+      <td><a href="https://github.com/snowdamiz/clippster-mono"><b>Clippster</b></a> — the all-in-one video clipping solution</td>
       <td><img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/snowdamiz/clippster-mono?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/snowdamiz/clippster-mono?style=flat-square&labelColor=343b41"/></td>
@@ -44,7 +44,7 @@ Here are a few projects I've been working on:
       <td><img alt="Commit Activity" src="https://img.shields.io/github/commit-activity/m/snowdamiz/clippster-mono?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/snowdamiz/lit-ui"><b>Lit UI</b> - framework agnostic native web components</a></td>
+      <td><a href="https://github.com/snowdamiz/lit-ui"><b>Lit UI</b></a> — framework agnostic native web components</td>
       <td><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/snowdamiz/lit-ui?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/snowdamiz/lit-ui?style=flat-square&labelColor=343b41"/></td>
@@ -52,7 +52,7 @@ Here are a few projects I've been working on:
       <td><img alt="Commit Activity" src="https://img.shields.io/github/commit-activity/m/snowdamiz/lit-ui?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/snowdamiz/onvibe"><b>onvibe</b> - social media platform for vibe coders</a></td>
+      <td><a href="https://github.com/snowdamiz/onvibe"><b>onvibe</b></a> — social media platform for vibe coders</td>
       <td><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/snowdamiz/onvibe?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/snowdamiz/onvibe?style=flat-square&labelColor=343b41"/></td>
