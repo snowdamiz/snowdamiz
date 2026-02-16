@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm Andrew👋</h2>
 
 <p align="center">
-  <a href="https://openworth.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
+  <a href="http://yurlovandrew.me/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black" /></a>
   <a href="https://x.com/andrew_da_miz" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-1DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
